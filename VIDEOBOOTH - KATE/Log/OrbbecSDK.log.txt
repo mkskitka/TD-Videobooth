@@ -1,0 +1,180 @@
+[09/30 14:57:10.125303][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:10.125778][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:10.126646][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:10.126790][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:10.127131][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:10.127178][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:10.127350][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:10.127375][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:10.161061][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:10.161137][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:10.193422][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:10.194831][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:10.195925][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:10.196026][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:10.196043][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:10.196696][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:10.196757][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:10.196773][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:10.204491][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:10.205879][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:10.206706][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:10.206791][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:10.206819][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:10.206846][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:10.206863][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:10.206883][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:10.206897][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:10.206911][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:10.237016][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:10.237098][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:10.269387][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:10.270552][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:10.271437][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:10.271482][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:10.271498][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:10.271522][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:10.271536][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:10.271550][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:10.277805][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:10.279226][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:10.281265][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:10.281364][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:10.281403][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:10.281439][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:10.281507][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:10.281533][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:10.281548][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:10.281562][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:10.311849][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:10.311916][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:10.344774][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:10.346027][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:10.346968][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:10.347044][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:10.347062][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:10.347084][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:10.347098][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:10.347112][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:10.354706][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:10.356456][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:12.514743][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:12.514878][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:12.514911][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:12.514938][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:12.514956][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:12.514977][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:12.514991][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:12.515006][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:12.544326][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:12.544407][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:12.573880][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:12.575089][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:12.575847][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:12.575876][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:12.575891][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:12.575914][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:12.575927][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:12.575941][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:12.582273][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:12.583657][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:13.067948][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:13.068063][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:13.068093][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:13.068119][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:13.068135][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:13.068156][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:13.068169][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:13.068183][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:13.098200][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:13.098365][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:13.128232][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:13.129553][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:13.130917][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:13.131021][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:13.131166][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:13.131277][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:13.131304][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:13.131438][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:13.137165][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:13.140853][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:13.143531][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:13.143648][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:13.143685][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:13.143718][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:13.143740][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:13.143765][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:13.143782][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:13.143800][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:13.176633][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:13.176715][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:13.209721][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:13.211526][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:13.212500][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:13.212528][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:13.212544][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:13.212565][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:13.212579][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:13.212592][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:13.218383][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:13.219649][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:13.618018][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:13.618135][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:13.618167][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:13.618195][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:13.618212][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:13.618233][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:13.618247][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:13.618262][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:13.651168][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:13.651245][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:13.685099][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:13.686225][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:13.687636][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:13.687674][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:13.687770][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:13.687800][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:13.687815][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:13.687828][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:13.696624][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:13.697896][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:13.698765][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:13.698849][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:13.698879][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:13.698904][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:13.698921][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:13.698942][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:13.698956][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:13.698971][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:13.731541][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:13.731618][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:13.775482][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:13.776613][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:13.777593][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:13.777621][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:13.777637][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:13.777659][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:13.777673][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:13.777686][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:13.787402][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:13.788921][info][32568][Context.cpp:84] Context destroyed
+[09/30 14:57:13.791148][debug][32568][Context.cpp:30] Context creating, work_dir=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE
+[09/30 14:57:13.791246][debug][32568][Context.cpp:49] Config file version=1.1
+[09/30 14:57:13.791277][debug][32568][FrameBufferManager.cpp:23] Max global frame buffer size updated! size=2048.000MB
+[09/30 14:57:13.791303][info][32568][Context.cpp:68] Context created with config: default config!
+[09/30 14:57:13.791321][info][32568][Context.cpp:73] Work directory=C:\Users\mkski\Desktop\td files\VIDEOBOOTH - KATE, SDK version=v1.10.8-20240604-d1671a341
+[09/30 14:57:13.791341][debug][32568][DeviceManager.cpp:30] DeviceManager init ...
+[09/30 14:57:13.791355][info][32568][MfPal.cpp:103] createObPal: create WinPal!
+[09/30 14:57:13.791369][debug][32568][MfPal.cpp:108] WmfPal init ...
+[09/30 14:57:13.822972][debug][32568][MfPal.cpp:115] WmfPal created!
+[09/30 14:57:13.823046][debug][32568][DeviceManager.cpp:34] Enable USB Device Enumerator ...
+[09/30 14:57:13.856972][debug][32568][EnumeratorLibusb.cpp:322] queryDevicesInfo done!
+[09/30 14:57:13.861376][debug][32568][MfPal.cpp:214] Create WinEventDeviceWatcher!
+[09/30 14:57:13.862376][debug][32568][UsbDeviceEnumerator.cpp:77] No matched usb device found!
+[09/30 14:57:13.862447][info][32568][DeviceManager.cpp:15] Current found device(s): (0)
+[09/30 14:57:13.862465][debug][32568][DeviceManager.cpp:52] DeviceManager construct done!
+[09/30 14:57:13.862488][debug][32568][Context.cpp:81] Context destroying ...
+[09/30 14:57:13.862502][debug][32568][DeviceManager.cpp:56] DeviceManager destroy ...
+[09/30 14:57:13.862515][debug][32568][DeviceManager.cpp:64] DeviceManager Destructors done
+[09/30 14:57:13.868596][debug][32568][MfPal.cpp:126] WmfPal destroyed!
+[09/30 14:57:13.869943][info][32568][Context.cpp:84] Context destroyed
